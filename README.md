@@ -1,11 +1,10 @@
-# JavaM-croservice
+## Technologies Used in This Repository
 
-
-Java 21
-Spring Boot
-Microservices
-Feign Client
-Event Driven
-Saga Pattern
-Kafka
-Postgres
+- **Java 21**  
+- **Spring Boot**  
+- **Microservices Architecture**  
+- **Feign Client**  
+- **Event-Driven Architecture**  
+- **Saga Pattern**  
+- **Kafka**  
+- **PostgreSQL**  
